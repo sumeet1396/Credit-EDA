@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files
+application_data.csv
+columns_description.csv
+previous_application.csv
+CREDIT-EDA-CASE-STUDY.pptx
